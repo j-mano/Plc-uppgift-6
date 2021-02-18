@@ -1,0 +1,16 @@
+Sammanfattning  
+I denna uppgift ska du skapa ett program i något av programmeringsspråken: ladder diagram eller function block diagram. Leveransen består i en bild av detta program.
+
+Figur1: Bilden visar ett system som består av ett transportband med en motor och två sensorer lokaliserade i början och slutet av transportbandet. Systemet kontrolleras via en PLC som har båda sensorerna inkopplade till dess ingångar och motorns framdrift är kopplad till en utgång. 
+
+Systemets funktionsbeskrivning  
+En box kan placeras i början av transportbandet, Position A. Sensor A registrerar boxen som då transporteras till Position B där Sensor B registrerar den och stoppar transportbandet. När boxen befinner sig i Position B så kan inte transportbandet aktiveras. För att transportbandet åter ska kunna aktiveras måste boxen i Position B tas bort.
+Uppgift  
+Skapa ett program i ladder diagram eller function block diagram som uppfyller systemets funktionsbeskrivning ovan.
+Leverans  
+Du dokumenterar din lösning på valfritt men adekvat sätt. Lösningen ska sedan levereras som en bildfil av godkänt format.
+
+Exempel på adekvata sätt att producera lösningen:
+
+Lösning i mjukvara samt tydlig printscreen - kan med fördel göras i CoDeSys
+Lösning på papper som scannas eller fotograferas
